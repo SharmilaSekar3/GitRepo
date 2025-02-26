@@ -2,16 +2,6 @@ test file
 
 new line added
 
-
-
-
-
-
-
-
-
-
-
-
-
 new line added for feature branch 2
+
+added new changes for feature branch1
